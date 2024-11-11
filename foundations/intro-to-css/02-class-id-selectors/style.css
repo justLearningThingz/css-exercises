@@ -1,0 +1,17 @@
+.odd{
+    background-color: #df896f;
+    font-family: 'Courier New', Courier, monospace;
+}
+#two{
+    color: blue;
+    background-color: clear;
+    font-size: 64px;
+}
+.three{
+    font-size: 28px;
+}
+#four{
+    background-color: #71fa71;
+    font-size: 32px;
+    font-weight: 800;
+}
