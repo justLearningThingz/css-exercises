@@ -1,0 +1,13 @@
+.first,
+.second{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 32px;
+}
+.first{
+    background-color: black;
+    font-weight: 800;
+    color: white;
+}
+.second{
+    background-color: yellow;
+}
